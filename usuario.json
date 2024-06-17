@@ -1,0 +1,107 @@
+[
+    {
+        "id": 1,
+        "nombre": "María López",
+        "email": "maria@example.com",
+        "contrasena": "password123",
+        "activo": true
+    },
+  {
+    "id": 2,
+    "nombre": "Pedro García",
+    "email": "pedro@example.com",
+    "contrasena": "secure456",
+    "activo": false
+  },
+  {
+    "id": 3,
+    "nombre": "Ana Martínez",
+    "email": "ana@example.com",
+    "contrasena": "secret789",
+    "activo": true
+  },
+  {
+    "id": 4,
+    "nombre": "Luisa Rodríguez",
+    "email": "luisa@example.com",
+    "contrasena": "luisaPass",
+    "activo": true
+  },
+  {
+    "id": 5,
+    "nombre": "Javier Sánchez",
+    "email": "javier@example.com",
+    "contrasena": "javierPwd",
+    "activo": false
+  },
+  {
+    "id": 6,
+    "nombre": "Elena Pérez",
+    "email": "elena@example.com",
+    "contrasena": "elena123",
+    "activo": true
+  },
+  {
+    "id": 7,
+    "nombre": "Carlos Gómez",
+    "email": "carlos@example.com",
+    "contrasena": "carlos456",
+    "activo": true
+  },
+  {
+    "id": 8,
+    "nombre": "Laura Fernández",
+    "email": "laura@example.com",
+    "contrasena": "lauraPass",
+    "activo": false
+  },
+  {
+    "id": 9,
+    "nombre": "David Martín",
+    "email": "david@example.com",
+    "contrasena": "davidPwd",
+    "activo": true
+  },
+  {
+    "id": 10,
+    "nombre": "Sofía Ruiz",
+    "email": "sofia@example.com",
+    "contrasena": "sofia987",
+    "activo": true
+  },
+  {
+    "id": 11,
+    "nombre": "Alejandro Vargas",
+    "email": "alejandro@example.com",
+    "contrasena": "alejandroPass",
+    "activo": false
+  },
+  {
+    "id": 12,
+    "nombre": "Marta Sánchez",
+    "email": "marta@example.com",
+    "contrasena": "martaPwd",
+    "activo": true
+  },
+  {
+    "id": 13,
+    "nombre": "Pablo Ramírez",
+    "email": "pablo@example.com",
+    "contrasena": "pablo123",
+    "activo": true
+  },
+  {
+    "id": 14,
+    "nombre": "Natalia Torres",
+    "email": "natalia@example.com",
+    "contrasena": "nataliaPass",
+    "activo": false
+  },
+  {
+    "id": 15,
+    "nombre": "José Jiménez",
+    "email": "jose@example.com",
+    "contrasena": "josePwd",
+    "activo": true
+  }
+]
